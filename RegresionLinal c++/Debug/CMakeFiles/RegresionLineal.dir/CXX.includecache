@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/camilo/Documentos/U.SegioArboleda/MachineLearning/RegresionLineal/RegresionLineal/linealregression.cpp
+linealregression.h
+/home/camilo/Documentos/U.SegioArboleda/MachineLearning/RegresionLineal/RegresionLineal/linealregression.h
+Eigen/Dense
+-
+iostream
+-
+cmath
+-
+vector
+-
+
+/home/camilo/Documentos/U.SegioArboleda/MachineLearning/RegresionLineal/RegresionLineal/linealregression.h
+Eigen/Dense
+-
+iostream
+-
+cmath
+-
+vector
+-
+
